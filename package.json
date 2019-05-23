@@ -14,8 +14,7 @@
     "morgan": "^1.9.1",
     "npm": "^5.8.0",
     "path": "^0.12.7",
-    "tsc": "^1.20150623.0",
-    "typescript": "^2.9.2"
+    "typescript": "^2.2.2"
   },
   "devDependencies": {},
   "scripts": {
