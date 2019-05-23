@@ -36,7 +36,7 @@ class App {
     //     message: 'Hello World!'
     //   });
     // });
-/*
+
     router.get('/one', (req, res, next) => {
         res.send('request one');
     });
@@ -87,7 +87,7 @@ class App {
 
         next();
     });
-*/
+
     this.express.use('/', router);
 
     this.express.use('/images', express.static(__dirname+'/img'));
